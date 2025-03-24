@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vincentlapter
-- 👀 I’m interested in web / applicatin design
+- 👀 I’m interested in web / application design
 - 🌱 I’m currently learning on how to build a website / application development
 - 💞️ I’m looking to collaborate on all avialable projects related
 - 
